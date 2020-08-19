@@ -3,7 +3,7 @@
 copyright:
 
   years: 2018, 2020
-lastupdated: "2020-06-15"
+lastupdated: "2020-08-19"
 
 keywords: classic infrastructure API keys, classic infrastructure API, SoftLayer API key
 
@@ -44,7 +44,7 @@ To get the details of a classic infrastructure API key after you create it, clic
 
 To get the details of a classic infrastructure API key after you create it, go to **Manage** > **Access (IAM)** > **Users**, then select the user's name. From the API keys section, select **View details** from the **Actions** ![List of actions icon](../icons/action-menu-icon.svg) menu in the row for the classic infrastructure API key row. You can copy the API key value.
 
-In most cases, the username of your classic infrastructure API key will be your `<account_ID>_<email_address>`
+In most cases, the username of your classic infrastructure API key will be your `<account_ID>_<email_address>`. It is the same as your VPN username displayed on your User details page in the VPN password section.
 {: tip}
      
 To delete a classic infrastructure API key, select **Delete** from the **Actions** ![List of actions icon](../icons/action-menu-icon.svg) menu on the row for the API key in the API keys section.
